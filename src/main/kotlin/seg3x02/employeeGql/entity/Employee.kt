@@ -13,5 +13,5 @@ data class Employee(
         val email: String?
 ) {
     @Id
-    var id: String = ""
+    var employeeId: String = ""
 }
